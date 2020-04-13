@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">德信互动屏</string>
+    <string name="black_bg">#000000</string>
+    <string name="white_bg">#FFFFFF</string>
+</resources>
